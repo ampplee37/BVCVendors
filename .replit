@@ -1,0 +1,1 @@
+run = "nix-shell --run 'python example.py'"
